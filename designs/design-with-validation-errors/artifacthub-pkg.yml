@@ -1,6 +1,8 @@
+version: 0.0.1
 name: design-with-validation-errors
 displayName: Design With Validation Errors
-createdAt: "2024-08-06T12:40:56Z"
+createdAt: "2024-08-07T07:16:26Z"
+description: Default Value
 logoURL: https://raw.githubusercontent.com/meshery/meshery.io/0b8585231c6e2b3251d38f749259360491c9ee6b/assets/images/brand/meshery-logo.svg
 license: Apache-2.0
 homeURL: https://docs.meshery.io/concepts/logical/designs
